@@ -22,5 +22,4 @@ try:
 
 except pyautogui.FailSafeException:
     playsound(sound)
-
     print("The bot has stopped!")
