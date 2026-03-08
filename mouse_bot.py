@@ -11,7 +11,7 @@ clicks = input("Clicks (Y/N)? ").lower()
 
 try:
     while True:
-        #Numbers can switch depending on what you want to do
+        #Numbers can switch depending on what you want to do and screen size
         x = randint(200, 1200)
         y = randint(200, 650)
         if clicks == "y":
@@ -22,4 +22,5 @@ try:
 
 except pyautogui.FailSafeException:
     playsound(sound)
+
     print("The bot has stopped!")
