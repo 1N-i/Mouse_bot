@@ -1,4 +1,4 @@
-# 🖱️ Mouse Bot - Python Automation
+# 🖱️ Mouse Bot
 
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python)
 ![PyAutoGUI](https://img.shields.io/badge/Library-PyAutoGUI-green?style=for-the-badge)
